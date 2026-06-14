@@ -91,7 +91,8 @@ credit-card-fraud-detection/
 4. **Train the model:**
    
    bash
-   python model_training.py
+
+    python model_training.py
    
 _This will generate models/fraud_model.pkl locally.
 
