@@ -6,9 +6,12 @@ https://github.com/shariqua06/credit-card-fraud-detection
 ---
 ## Internship Details
 
-- Internship Provider: CodTech IT Solutions  
-- Intern ID: CITS3942  
-- Internship Week: Week 4  
+- Internship Provider: CodTech IT Solutions
+- 
+- Intern ID: CITS3942
+- 
+- Internship Week: Week 4
+- 
 - Intern Name: Shariqua Tabassum G  
 
 ---
@@ -124,42 +127,50 @@ Password: admin123
 -Fully responsive Streamlit UI
 
 ## Dashboard Modules
--Overview
+**-Overview**
    Total transactions scanned
    Fraud alerts
    Safe transactions
    Pie chart visualization
--Safe Stream
+   
+**-Safe Stream**
    Simulates safe transactions from dataset
    Displays AI risk score
--Fraud Stream
+   
+**-Fraud Stream**
    Simulates fraud transactions from dataset
    Displays fraud alerts in real-time style
--Analytics
+   
+**-Analytics**
    Fraud vs Safe distribution
    Risk trend analysis
    Interactive charts
 
 ## Key Highlights
 ✔ Real-world dataset simulation
+
 ✔ Fully automated ML fraud detection
+
 ✔ FinTech-grade UI design
+
 ✔ No manual feature input required
+
 ✔ Resume-ready AI project
 
 ## Future Enhancements
    Real-time transaction API integration
+   
    Email/SMS fraud alert system
+   
    SHAP explainability for predictions
+   
    Cloud deployment (Streamlit Cloud / AWS)
+   
    Admin analytics panel upgrade
 
 ## Developed By
    Shariqua Tabassum G
-   Intern - CodTech IT Solutions
-   Intern ID: CITS3942
-   Week 4 Internship Project
-
+   
 ## Repository
 
    https://github.com/shariqua06/credit-card-fraud-detection⁠
