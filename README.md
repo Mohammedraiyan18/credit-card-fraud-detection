@@ -1,15 +1,15 @@
 # 🏦 Credit Card Fraud Detection - FinBank AI Control Room
 
 🔗 GitHub Repository:  
-https://github.com/shariqua06/credit-card-fraud-detection
+https://github.com/Mohammedraiyan18/credit-card-fraud-detection
 
 ---
 ## Internship Details
 
 - Internship Provider: CodTech IT Solutions
-- Intern ID: CITS3942
+- Intern ID: CITS3951
 - Internship Week: Week 4
-- Intern Name: Shariqua Tabassum G  
+- Intern Name: Mohammed Raiyan N
 
 ---
 
@@ -166,9 +166,9 @@ Password: admin123
    Admin analytics panel upgrade
 
 ## Developed By
-   Shariqua Tabassum G
+   Mohammed Raiyan N
    
 ## Repository
 
-   https://github.com/shariqua06/credit-card-fraud-detection⁠
+   https://github.com/Mohammedraiyan18/credit-card-fraud-detection
 
